@@ -11,9 +11,9 @@ be using `json-server` to create a RESTful API for our database.
 
 Run `npm install` to install our dependencies.
 
-Then, run `npm run server` to start up `json-server` on `http://localhost:5731/.
+Then, run `npm run server` to start up `json-server` on `http://localhost:5173/.
 
-In another tab, run `npm run dev` to start up our React app at `http://localhost:5731/.
+In another tab, run `npm run dev` to start up our React app at `http://localhost:5173/.
 
 In another tab, run `npm run test` to run the test suite.
 
